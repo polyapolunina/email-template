@@ -1,1 +1,1 @@
-Link https://polyapolunina.github.io/email-template
+Link https://polyapolunina.github.io/email-template/email
